@@ -8,8 +8,10 @@
 
 ## Executing the program on a sample text file
 ![filecomp](https://user-images.githubusercontent.com/108319876/176507206-f0e7dd14-b6c4-46cf-9a76-c271d3977d56.png)
-We see that original file and file generated after decoding are same.
+We can see that original file and file generated after decoding are same.
 ### Here are the file sizes of all the three files(input file, compressed file, output file).
-![infiledemo](https://user-images.githubusercontent.com/108319876/176507233-fd9d84dd-ec06-47ba-a737-00f63cb14f22.png)
-![compdemo](https://user-images.githubusercontent.com/108319876/176507253-6bb67732-3aeb-4236-b93c-fcaa9dc3d412.png)
-![outfiledemo](https://user-images.githubusercontent.com/108319876/176507273-df84e4a7-23d2-45f0-b433-cd6daf38998d.png)
+<p float="left">
+<img src=https://user-images.githubusercontent.com/108319876/176507233-fd9d84dd-ec06-47ba-a737-00f63cb14f22.png alt="imput file properties" width="300">
+<img src=https://user-images.githubusercontent.com/108319876/176507253-6bb67732-3aeb-4236-b93c-fcaa9dc3d412.png alt="compressed file properties" width="300">
+<img src=https://user-images.githubusercontent.com/108319876/176507273-df84e4a7-23d2-45f0-b433-cd6daf38998d.png alt="output file properties" width="300">
+</p>
