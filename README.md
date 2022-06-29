@@ -1,4 +1,4 @@
-# Hoffman-File-Compressor
+# Huffman-File-Compressor
 
 - C++ programs which can compress and restore the file using Huffman Coding.
 - The program encode.cpp needs the name of file as an argument. It will the compress the file using Huffman encoding algorithm and generate a new compressed file with .huf extension.
