@@ -5,7 +5,7 @@
 - The program decode.cpp needs the name of compressed file with extension .huf. Optionally you can also give a second argument specifying the name of the decoded output file.
 - The compression ratios depend on the type of the input file.
 - For small files(order of bytes) it is not recommended to compress, because of fractional compression ratio. The compressed file occupies more space than input file.
-- In general larger the input file sizes better the compression ratios. The compression ratios depend on the probabilities of source's data.
+- In general, larger the input file sizes, better is the compression ratios. The compression ratios depend on the probabilities of source's data.
 
 ## Executing the program on a sample text file
 ![filecomp](https://user-images.githubusercontent.com/108319876/176507206-f0e7dd14-b6c4-46cf-9a76-c271d3977d56.png)
