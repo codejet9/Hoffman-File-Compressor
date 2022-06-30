@@ -1,6 +1,6 @@
 # Huffman-File-Compressor
 
-- C++ programs which can compress and restore the file using Huffman Coding - A lossless data compression using variable length codes. It is the most efficient algorithm for data compression.
+- C++ programs which can compress and extract the file using Huffman Coding - A lossless data compression using variable length codes. It is the most efficient algorithm for data compression.
 - The program encode.cpp needs the name of file as an argument. It will the compress the file using Huffman encoding algorithm and generate a new compressed file with .huf extension.
 - The program decode.cpp needs the name of compressed file with extension .huf. Optionally you can also give a second argument specifying the name of the decoded output file.
 - The compression ratios depend on the type of the input file.
