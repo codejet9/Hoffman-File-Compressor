@@ -73,6 +73,10 @@ int main(int argv,char* argc[]){
         buffer<<file.rdbuf();
         data=buffer.str();
     }
+    else{
+        cout<<"File not found"<<endl;
+        return 0;
+    }
     file.close();
     string outputFilename="compressed_"+inputFileName.substr(0,inputFileName.length()-4)+".huf";
     // cout<<"Read the Input file"<<endl;
