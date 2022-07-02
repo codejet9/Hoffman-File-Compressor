@@ -96,6 +96,10 @@ int main(int argv,char* argc[]){
         buffer<<file.rdbuf();
         data=buffer.str();
     }
+    else{
+        cout<<"File not found"<<endl;
+        return 0;
+    }
     file.close();
 
     ///////length of input////////
